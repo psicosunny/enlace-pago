@@ -1,0 +1,11 @@
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O1To0EBpKkKbeQMj9rL8aun"
+  publishable-key="pk_live_51NZXl3EBpKkKbeQMt9cKq9yqQHloSPbYS2Q1biVzoXwLAKvq8jhpAgOqTfrlqw7jXOjVtC9WoRsl35xyrktO7TK700qc9VPpqC"
+>
+</stripe-buy-button>
